@@ -1,0 +1,2 @@
+- Screenshots dos instaladores.
+- Marcar screenshots os pontos de atenção.
