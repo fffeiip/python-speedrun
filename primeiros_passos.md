@@ -8,9 +8,13 @@ Os passos seguintes foram criados de acordo com a [documentação](https://www.p
 ![python_installer](screenshots\primeiros_passos\download_python_installer.png)
 > - Seguir passo a passo do instalador
 
+**@TODO - Adicionar prints do passo a passo.**
+
 ### **MacOS**
 > - Entrar no [site oficial](https://www.python.org/downloads/macos/) e baixar o instaldor oficial da linguagem.
 > - Ou alternativamente, instalar usando o gerenciador de pacotes [homebrew](https://docs.brew.sh/Homebrew-and-Python). 
+
+**@TODO - Adicionar prints do passo a passo.**
 
 ### **Linux**
 Sistemas GNU/Linux mais recentes já possuem uma versão do python instalada junto com o sistema operacional. Podemos checar se o python foi instalado corretamente com o seguinte comando: 
@@ -58,4 +62,4 @@ $ sudo apt-get install python3.11
 > é possível instalar outras versões, basta substituir por: `python3.8`, `python3.9`, `python3.10`,
 
 ## Outras plataformas
-É possível também instalar o python em outras plataformas através de binários e bibliotecas de terceiros, para tal, o site oficial disponibiliza as [instruções](https://www.python.org/download/other/) necessárias. Contudo, tal conteúdo não é o foco da nossa apostila.
+É possível também instalar o python em outras plataformas através de binários e bibliotecas de terceiros, para tal, o site oficial disponibiliza as [instruções necessárias](https://www.python.org/download/other/). Contudo, tal conteúdo não é o foco da nossa apostila.

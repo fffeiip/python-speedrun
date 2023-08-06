@@ -10,10 +10,11 @@ $ pip --version
 ```
 Caso ele esteja instalado, você deve ver algo como na imagem abaixo:
 
-![pip](screenshots\primeiros_passos\pip.png)
+**@TODO - Adicionar print**
 
 ### Caso seja necessário instalar o PIP
-- Baixe o [arquivo](https://bootstrap.pypa.io/get-pip.py) "get-pip.py" ou excute o comando abaixo:
+- Baixe o [arquivo](https://bootstrap.pypa.io/get-pip.py) 
+"get-pip.py" ou excute o comando abaixo:
 ```shell
 $ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ```
@@ -22,7 +23,8 @@ $ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 $ python get-pip.py
 ```
 Você deve ver algo como na imagem abaixo:
-![pip-installed](screenshots\primeiros_passos\pip-installed.png)
+
+**@TODO - Adicionar print**
 
 ### Como instalar e desistalar um pacote com o PIP?
 - Instalando um pacote
@@ -43,4 +45,4 @@ $ pip list
 ```
 Você deve ver algo como na imagem abaixo:
 
-![pip-list](screenshots\primeiros_passos\pip-list.png)
+**@TODO - Adicionar print**
