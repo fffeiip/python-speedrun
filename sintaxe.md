@@ -10,30 +10,30 @@ cidade = “Recife”
 
 Nesse exemplo, utilizando o operador “=”, atribuímos o valor Recife para variável de nome “cidade”.
 
-Tipos de dados
+<h3>Tipos de dados</h3>
 
-Inteiros
+<h3>Inteiros</h3>
 
 Representa números inteiros, positivos ou negativos
 
-Float
+<h3>Float</h3>
 
 Representa números decimais
 
-Booleano
+<h3>Booleano</h3>
 
 Representa valores verdadeiros ou falsos
 
-String
+<h3>String</h3>
 
 Representa uma sequência de caracteres
 
 
-4.2 Operadores(aritméticos, de comparação, lógicos)
+<h2>  Operadores(aritméticos, de comparação, lógicos) </h2>
 
 No mundo da programação, assim como na matemática, utilizamos operadores aritméticos para realizar cálculos e operações matemáticas. 
 
-Adição
+<h3>Adição</h3>
 
 Em Python utilizamos o operador “+” para realizar somas entre dois números.
 
@@ -41,7 +41,7 @@ Exemplo:
 
 soma = 3 + 5 # A variável soma vai armazenar o resultado da operação 3 + 5, que resulta em 8.
 
-Subtração
+<h3>Subtração</h3>
 
 Em Python utilizamos o operador “-” para realizar subtrações entre dois números
 
@@ -50,12 +50,12 @@ Exemplo:
 Subtração = 9 - 4 # A variável subtração vai armazenar o resultado da operação 9 - 4, que resulta em 5.
 
 
-Divisão
+<h3>Divisão</h3>
 
-Multiplicação
+<h3>Multiplicação</h3>
 
 Assim como na matemática, quando realizamos operações aritméticas precisamos levar em consideração a precedência dos operadores. Temos que operações em parênteses () serão realizadas primeiramente, depois as multiplicações e divisões serão realizadas e por fim, os operadores da esquerda para a direita.
 
-4.3 Controle de Fluxo(if, for, while)
+<h2>Controle de Fluxo(if, for, while)</h2>
 
 
