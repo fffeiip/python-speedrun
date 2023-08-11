@@ -6,8 +6,10 @@ Em Python, assim como em outras linguagens de programação, os dados que usamos
 (Explicar o que é variável)
 
 Exemplo de definição de variável:
-cidade = “Recife”
 
+```python
+cidade = “Recife”
+```
 Nesse exemplo, utilizando o operador “=”, atribuímos o valor Recife para variável de nome “cidade”.
 
 <h3>Tipos de dados</h3>
@@ -39,17 +41,19 @@ Em Python utilizamos o operador “+” para realizar somas entre dois números.
 
 Exemplo:
 
+```python
 soma = 3 + 5 # A variável soma vai armazenar o resultado da operação 3 + 5, que resulta em 8.
-
+```
 <h3>Subtração</h3>
 
 Em Python utilizamos o operador “-” para realizar subtrações entre dois números
 
 Exemplo:
 
+```python
 Subtração = 9 - 4 # A variável subtração vai armazenar o resultado da operação 9 - 4, que resulta em 5.
 
-
+```
 <h3>Divisão</h3>
 
 <h3>Multiplicação</h3>
