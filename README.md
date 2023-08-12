@@ -31,6 +31,7 @@ Não são necessários conhecimentos prévios em programação para participar d
 - Importação e uso de módulos e pacotes.
 - Demonstração de exemplos de módulos populares (math, datetime, random).
 - Exercícios práticos para aplicação dos conceitos aprendidos.
+
 ## Como Participar
 
 **Adicionar instruções**
@@ -50,14 +51,3 @@ Esperamos que você aproveite o Minicurso de Introdução à Programação com P
 | [Sintaxe Básica](./sintaxe.md)      | Conceitos fundamentais de sintaxe em Python      |
 | [Gerenciador de Pacotes PIP](./planejamento.md) | Como utilizar o PIP para gerenciar pacotes |
 | [Funções](./functions.md)            | Aprofundamento nas funções em Python            |
-
-<div class="full-width-table">
-    | Tópico                              | Descrição                                        |
-    |-------------------------------------|--------------------------------------------------|
-    | [Planejamento](./planejamento.md)   | Detalhes do plano do minicurso e conteúdo         |
-    | [Primeiros Passos](./primeiros_passos.md) | Instruções iniciais para configurar o ambiente |
-    | [Sintaxe Básica](./sintaxe.md)      | Conceitos fundamentais de sintaxe em Python      |
-    | [Gerenciador de Pacotes PIP](./planejamento.md) | Como utilizar o PIP para gerenciar pacotes |
-    | [Funções](./functions.md)            | Aprofundamento nas funções em Python            |
-</div>
-

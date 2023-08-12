@@ -1,3 +1,0 @@
-- Screenshots dos instaladores.
-- Marcar screenshots nos pontos de atenção.
-- Atualizar referências
