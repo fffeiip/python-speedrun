@@ -1,6 +1,6 @@
 # Minicurso de Introdução à Programação com Python
 
-Bem-vindo ao Minicurso de Introdução à Programação com a linguagem Python! Este minicurso foi desenvolvido com base em princípios de Design Instrucional para oferecer a você uma introdução aos conceitos fundamentais de programação utilizando a linguagem Python.
+Este minicurso foi desenvolvido com base em princípios de Design Instrucional para oferecer a você uma introdução aos conceitos fundamentais de programação utilizando a linguagem Python.
 
 ## Sobre o Minicurso
 
