@@ -14,18 +14,13 @@ Não são necessários conhecimentos prévios em programação para participar d
 
 ### Aula 1: Introdução à Programação e Configuração do Ambiente
 
-- O que é programação e por que é importante.
-- Vantagens de usar Python como linguagem inicial.
-- Instalação do Python em diferentes sistemas operacionais.
-- Configuração do ambiente de desenvolvimento (IDEs, acesso à CLI e ao gerenciador de pacotes PIP).
+- Configuração do ambiente de desenvolvimento  
+- Sintaxe básica: variáveis, tipos de dados 
 - Escrita e execução de um programa Python simples.
-
+- Introdução às funções em Python
+- Estruturas de controle de fluxo: condicionais e loops.
 ### Aula 2: Fundamentos de Python e Prática de Habilidades
 
-- Revisão da Aula 1 e esclarecimento de dúvidas.
-- Sintaxe básica: variáveis, tipos de dados (inteiros, strings, listas, dicionários), operadores (aritméticos, de comparação, lógicos).
-- Estruturas de controle de fluxo: condicionais (if) e loops (for, while).
-- Introdução às funções em Python: definição, chamada, argumentos e parâmetros.
 - Exploração de funções embutidas úteis.
 - Conceito de módulos e pacotes.
 - Importação e uso de módulos e pacotes.
