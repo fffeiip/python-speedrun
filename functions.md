@@ -1,7 +1,7 @@
 ## Funções
 ---
 
-Uma função é um bloco que código que só é executado quando chamado. No Python, funções são objetos de primeira classe. O que significa dizer que uma função é tratada da mesma forma que qualquer variável e pode ser:
+Uma função é um bloco de código que só é executado quando chamado. No Python, funções são objetos de primeira classe. O que significa dizer que uma função é tratada da mesma forma que qualquer variável e pode ser:
 
 - Criada durante a execução de um programa
 - Atribuida a uma variável ou a um elemento em uma estrutura de dados
