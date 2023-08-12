@@ -19,6 +19,7 @@ Não são necessários conhecimentos prévios em programação para participar d
 - Escrita e execução de um programa Python simples.
 - Introdução às funções em Python
 - Estruturas de controle de fluxo: condicionais e loops.
+  
 ### Aula 2: Fundamentos de Python e Prática de Habilidades
 
 - Exploração de funções embutidas úteis.
