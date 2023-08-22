@@ -97,3 +97,58 @@ else:
 
 <h3>Laçoes de repetições(For e While)</h3>
 
+Laços de repetição são estruturas de controle que permitem executar um bloco de código várias vezes. Python fornece dois principais laços de repetição: for e while. Vamos explorar ambos em detalhes.
+
+
+Utilizamos o for para executar um pedaço de código um determinado número de vezes. 
+O for também é usado para iterar sobre uma sequência (lista, tupla, dicionário, conjunto ou string) ou outro objeto iterável.
+
+A estrutura do for em python é composto pelo seguintes componentes:
+A palavra reservada for
+Uma variáveç
+A palavra reservada in
+A função range()
+O código que você quer repetir
+
+```python
+for variavel in sequencia:
+  # código a ser repetido
+```
+
+Exemplo:
+```python
+for numero in range(5):
+  print (numero)
+```
+
+<h3>While</h3>
+
+A sua estrutura pode ser dividida em 3 partes:
+A palavra reservada while;
+Uma condição que pode ser verdadeiraa ou falsa; e
+Um bloco de código que você quer executar repetidamente
+
+Exemplo:
+```python
+numero = 2
+
+while numero < 5:
+  print(numero)
+  numero = numero+1
+```
+
+<h3>Quando utilizar o For e quando utilizar o While?</h3>
+
+Finalidade: O for é geralmente usado quando se quer iterar sobre uma sequência (como uma lista, tupla, string ou qualquer objeto iterável) ou quando se sabe de antemão quantas vezes se quer executar um bloco de código.
+
+Características:
+
+Usa uma variável de iteração que percorre os valores de uma sequência.
+Combina bem com a função range() para criar sequências numéricas.
+
+Finalidade: O while é usado quando se quer executar um bloco de código enquanto uma condição específica for verdadeira. Portanto, não é necessário saber quantas vezes o bloco será executado de antemão.
+
+Características:
+
+Baseia-se em uma condição, e o bloco de código dentro do while é executado até que essa condição se torne falsa.
+Pode levar a loops infinitos se a condição nunca se tornar falsa.
