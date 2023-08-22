@@ -8,7 +8,7 @@ Em Python, assim como em outras linguagens de programação, os dados que usamos
 Exemplo de definição de variável:
 
 ```python
-cidade = “Recife”
+cidade = 'Recife'
 ```
 Nesse exemplo, utilizando o operador “=”, atribuímos o valor Recife para variável de nome “cidade”.
 
@@ -16,19 +16,56 @@ Nesse exemplo, utilizando o operador “=”, atribuímos o valor Recife para va
 
 <h3>Inteiros</h3>
 
-Representa números inteiros, positivos ou negativos
+O tipo inteiro é um tipo composto por caracteres numéricos (algarismos) inteiros.
+
+É um tipo usado para um número que pode ser escrito sem um componente decimal, podendo ter ou não sinal, isto é: ser positivo ou negativo.
+
+Por exemplo, 21, 4, 0, e −2048 são números inteiros, enquanto 9.75, 1/2, 1.5 não são.
+
+Exemplos:
+
+```python
+idade = 12
+ano = 2023
+```
 
 <h3>Float</h3>
 
-Representa números decimais
+É um tipo composto por caracteres numéricos (algarismo) decimais.
+
+O famoso ponto flutuante é um tipo usado para números racionais (números que podem ser representados por uma fração) informalmente conhecido como “número quebrado”.
+
+Exemplos:
+
+```python
+altura = 1.78
+peso = 65.5
+```
 
 <h3>Booleano</h3>
 
-Representa valores verdadeiros ou falsos
+Tipo de dado lógico que pode assumir apenas dois valores: falso ou verdadeiro (False ou True em Python).
+
+Na lógica computacional, podem ser considerados como 0 ou 1.
+
+Exemplos:
+
+```python
+acordado = True
+lampada_acessa = True
+feriado = False
+```
 
 <h3>String</h3>
 
-Representa uma sequência de caracteres
+É um conjunto de caracteres dispostos numa determinada ordem, geralmente utilizada para representar palavras, frases ou textos.
+
+Exemplos:
+
+```python
+nome = 'caio'
+universidade = 'ufrpe'
+```
 
 
 <h2>  Operadores(aritméticos, de comparação, lógicos) </h2>
