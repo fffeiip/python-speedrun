@@ -62,4 +62,38 @@ Assim como na matemática, quando realizamos operações aritméticas precisamos
 
 <h2>Controle de Fluxo(if, for, while)</h2>
 
+<h3>Estruturas de Repetição</h3>
+  
+O if é uma estrutura fundamental em programação que permite tomar decisões em seu código.
+De forma intuitiva, a expressão que estiver após a palavra if é a expressão que será testada para a condição ser verdadeira ou falsa. Ou seja, caso a expressão resulte em True, os comandos endentados após os dois pontos (:) serão executados; caso contrário, esses não serão executados.
+
+Na linguagem Python, a sua sintaxe funciona da seguinte forma:
+
+```python
+if condição:
+  #instruções do código
+```
+
+Exemplo:
+```python
+idade = 20
+
+if idade >= 18:
+  print("Você é maior de idade")
+```
+
+Se após o if existir o condicional else, então tudo o que estiver indentado após o else será executado quando a expressão do if não o for.
+
+Exemplo:
+
+```python
+idade = 15
+
+if idade >= 18:
+  print("Você é maior de idade")
+else:
+  print("Você não é maior de idade")
+```
+
+<h3>Laçoes de repetições(For e While)</h3>
 
