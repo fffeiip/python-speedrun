@@ -4,7 +4,7 @@ Este minicurso foi desenvolvido com base em princípios de Design Instrucional p
 
 ## Sobre o Minicurso
 
-Este minicurso é dividido em duas aulas, cada uma com duração de 1 hora, totalizando 2 horas de conteúdo. O objetivo principal é proporcionar a você uma experiência prática e interativa, permitindo que você adquira as habilidades básicas necessárias para começar a programar em Python. 
+Este minicurso é dividido em dois módulos, cada um com duração de aproximadamente 1 hora e 30 minutos , totalizando 3 horas de conteúdo. O objetivo principal é proporcionar a você uma experiência prática e interativa, permitindo que você adquira as habilidades básicas necessárias para começar a programar em Python. As video aulas estão disponíveis em nossa [playlist do youtube](https://www.youtube.com/playlist?list=PLe9EYVyLWm6ixXkRG4xfPPC6hNi2KBeTg)
 
 ## Pré-requisitos
 
@@ -12,7 +12,7 @@ Não são necessários conhecimentos prévios em programação para participar d
 
 ## Conteúdo do Minicurso
 
-### Aula 1: Introdução à Programação e Configuração do Ambiente
+### Módulo 1: Introdução à Programação e Configuração do Ambiente
 
 - Configuração do ambiente de desenvolvimento  
 - Sintaxe básica: variáveis, tipos de dados 
@@ -20,7 +20,7 @@ Não são necessários conhecimentos prévios em programação para participar d
 - Introdução às funções em Python
 - Estruturas de controle de fluxo: condicionais e loops.
   
-### Aula 2: Fundamentos de Python e Prática de Habilidades
+### Módulo 2: Fundamentos de Python e Prática de Habilidades
 
 - Exploração de funções embutidas úteis.
 - Conceito de módulos e pacotes.
@@ -28,13 +28,13 @@ Não são necessários conhecimentos prévios em programação para participar d
 - Demonstração de exemplos de módulos populares (math, datetime, random).
 - Exercícios práticos para aplicação dos conceitos aprendidos.
 
-## Como Participar
+## Videos
 
-**Adicionar instruções**
+
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de suporte durante o minicurso, sinta-se à vontade para entrar em contato conosco na turma do google classroom **Adicionar link** .
+Se você tiver alguma dúvida ou precisar de suporte durante o minicurso, sinta-se à vontade para entrar em contato conosco na turma do [google classroom](https://classroom.google.com/u/1/c/NjE1MzU2MTM2NDM4).
 
 Esperamos que você aproveite o Minicurso de Introdução à Programação com Python e tenha uma experiência de aprendizado enriquecedora!
 
@@ -42,8 +42,10 @@ Esperamos que você aproveite o Minicurso de Introdução à Programação com P
 
 | Tópico                              | Descrição                                        |
 |-------------------------------------|--------------------------------------------------|
-| [Planejamento](./planejamento.md)   | Detalhes do plano do minicurso e conteúdo         |
 | [Primeiros Passos](./primeiros_passos.md) | Instruções iniciais para configurar o ambiente |
 | [Sintaxe Básica](./sintaxe.md)      | Conceitos fundamentais de sintaxe em Python      |
 | [Gerenciador de Pacotes PIP](./planejamento.md) | Como utilizar o PIP para gerenciar pacotes |
 | [Funções](./functions.md)            | Aprofundamento nas funções em Python            |
+| [Referências](./references.md)            | Referência da Apostila             |
+| [Desafios I](./desafios.md)            | Desafios Propostos            |
+| [Desafios II](./desafios.md)            | Possiveis Soluções aos Desafios Propostos             |
